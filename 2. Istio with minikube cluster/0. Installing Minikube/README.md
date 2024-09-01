@@ -47,3 +47,6 @@ minikube start  # 시작
 ![Minikube 중지 화면](image-1.png)
 
 이 명령어를 통해 Minikube를 중지하거나 다시 시작할 수 있습니다. Minikube를 통해 Kubernetes 클러스터를 손쉽게 관리할 수 있습니다.
+
+## 참고자료
+[Minikube - Getting Started](https://minikube.sigs.k8s.io/docs/start/)
